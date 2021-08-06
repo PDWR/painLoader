@@ -25,5 +25,6 @@ This is a trojan Loader build By C++.
   The way using the encrypt txt File can bypass **360**, but the way using cmd **may** stop by **360**.  
   I will fix it at next version
  
- 
+#### In fact ,I make a joke for Everyone, Find it   
+#### And u will know how this loader work
  
